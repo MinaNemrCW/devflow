@@ -64,6 +64,7 @@ const config = [
     rules: {
       "no-undef": "off",
     },
+    ignorePatterns: ["components/ui/**"],
   },
 ];
 
